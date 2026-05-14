@@ -26,3 +26,21 @@ This repository combines:
 - Resistance Mechanism Database
 - Clinical Trial Matching Engine (in development)
 - Pathway Signaling Case Studies
+
+## Resistance Biology Coverage
+
+The repository includes clinically relevant resistance evolution mechanisms:
+
+- EGFR C797S after osimertinib
+- MET amplification bypass signaling
+- ESR1 ligand-binding domain mutations
+- KRAS secondary resistance mutations
+- ALK solvent-front mutations
+- BRAF pathway reactivation
+- Small-cell lineage transformation
+
+Each resistance event includes:
+- biological mechanism
+- pathway annotation
+- therapeutic sequencing rationale
+- emerging next-generation agents
