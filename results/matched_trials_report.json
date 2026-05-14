@@ -1,0 +1,29 @@
+[
+    {
+        "Gene":"KRAS",
+        "Variant":"G12C",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Adagrasib",
+        "Trial_ID":"NCT04685135",
+        "Phase":"Phase II",
+        "Mechanism":"KRAS G12C inhibitor"
+    },
+    {
+        "Gene":"EGFR",
+        "Variant":"L858R",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Patritumab Deruxtecan",
+        "Trial_ID":"NCT04619004",
+        "Phase":"Phase II",
+        "Mechanism":"HER3-directed ADC"
+    },
+    {
+        "Gene":"ESR1",
+        "Variant":"Y537S",
+        "Cancer_Type":"Breast Cancer",
+        "Drug":"Elacestrant",
+        "Trial_ID":"NCT03778931",
+        "Phase":"Phase III",
+        "Mechanism":"Selective estrogen receptor degrader"
+    }
+]
