@@ -1,0 +1,82 @@
+[
+    {
+        "Target":"KRAS G12D",
+        "Drug":"MRTX1133",
+        "Company":"Mirati Therapeutics",
+        "Clinical_Phase":"Phase I\/II",
+        "Cancer_Type":"Pancreatic Cancer, Solid Tumors",
+        "Mechanism":"Selective KRAS G12D inhibitor",
+        "Resistance_Strategy":"Next-generation KRAS targeting",
+        "Pathway":"MAPK\/ERK"
+    },
+    {
+        "Target":"Pan-KRAS",
+        "Drug":"RMC-6236",
+        "Company":"Revolution Medicines",
+        "Clinical_Phase":"Phase I\/II",
+        "Cancer_Type":"RAS-mutant Solid Tumors",
+        "Mechanism":"RAS(ON) multi-selective inhibitor",
+        "Resistance_Strategy":"Broad KRAS blockade",
+        "Pathway":"MAPK\/ERK"
+    },
+    {
+        "Target":"HER3",
+        "Drug":"Patritumab Deruxtecan",
+        "Company":"Daiichi Sankyo",
+        "Clinical_Phase":"Phase II\/III",
+        "Cancer_Type":"EGFR-mutant NSCLC",
+        "Mechanism":"HER3-directed ADC",
+        "Resistance_Strategy":"Post-EGFR TKI resistance",
+        "Pathway":"HER family signaling"
+    },
+    {
+        "Target":"MET Amplification",
+        "Drug":"Telisotuzumab Vedotin",
+        "Company":"AbbVie",
+        "Clinical_Phase":"Phase II",
+        "Cancer_Type":"NSCLC",
+        "Mechanism":"c-MET ADC",
+        "Resistance_Strategy":"EGFR bypass resistance",
+        "Pathway":"RTK signaling"
+    },
+    {
+        "Target":"MTAP Loss",
+        "Drug":"AMG 193",
+        "Company":"Amgen",
+        "Clinical_Phase":"Phase I\/II",
+        "Cancer_Type":"Solid Tumors",
+        "Mechanism":"PRMT5 inhibitor",
+        "Resistance_Strategy":"Synthetic lethality",
+        "Pathway":"Epigenetic regulation"
+    },
+    {
+        "Target":"ARID1A Loss",
+        "Drug":"Ceralasertib",
+        "Company":"AstraZeneca",
+        "Clinical_Phase":"Phase II",
+        "Cancer_Type":"Ovarian and Solid Tumors",
+        "Mechanism":"ATR inhibitor",
+        "Resistance_Strategy":"DNA damage synthetic lethality",
+        "Pathway":"DNA Damage Response"
+    },
+    {
+        "Target":"CCNE1 Amplification",
+        "Drug":"Adavosertib",
+        "Company":"AstraZeneca",
+        "Clinical_Phase":"Phase II",
+        "Cancer_Type":"High-grade Serous Ovarian Cancer",
+        "Mechanism":"WEE1 inhibitor",
+        "Resistance_Strategy":"Replication stress targeting",
+        "Pathway":"Cell Cycle Regulation"
+    },
+    {
+        "Target":"EGFR C797S",
+        "Drug":"BLU-945",
+        "Company":"Blueprint Medicines",
+        "Clinical_Phase":"Phase I\/II",
+        "Cancer_Type":"EGFR-mutant NSCLC",
+        "Mechanism":"4th-generation EGFR inhibitor",
+        "Resistance_Strategy":"Osimertinib resistance",
+        "Pathway":"MAPK\/ERK"
+    }
+]

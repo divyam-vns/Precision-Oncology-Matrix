@@ -1,0 +1,9 @@
+Target,Drug,Company,Clinical_Phase,Cancer_Type,Mechanism,Resistance_Strategy,Pathway
+KRAS G12D,MRTX1133,Mirati Therapeutics,Phase I/II,"Pancreatic Cancer, Solid Tumors",Selective KRAS G12D inhibitor,Next-generation KRAS targeting,MAPK/ERK
+Pan-KRAS,RMC-6236,Revolution Medicines,Phase I/II,RAS-mutant Solid Tumors,RAS(ON) multi-selective inhibitor,Broad KRAS blockade,MAPK/ERK
+HER3,Patritumab Deruxtecan,Daiichi Sankyo,Phase II/III,EGFR-mutant NSCLC,HER3-directed ADC,Post-EGFR TKI resistance,HER family signaling
+MET Amplification,Telisotuzumab Vedotin,AbbVie,Phase II,NSCLC,c-MET ADC,EGFR bypass resistance,RTK signaling
+MTAP Loss,AMG 193,Amgen,Phase I/II,Solid Tumors,PRMT5 inhibitor,Synthetic lethality,Epigenetic regulation
+ARID1A Loss,Ceralasertib,AstraZeneca,Phase II,Ovarian and Solid Tumors,ATR inhibitor,DNA damage synthetic lethality,DNA Damage Response
+CCNE1 Amplification,Adavosertib,AstraZeneca,Phase II,High-grade Serous Ovarian Cancer,WEE1 inhibitor,Replication stress targeting,Cell Cycle Regulation
+EGFR C797S,BLU-945,Blueprint Medicines,Phase I/II,EGFR-mutant NSCLC,4th-generation EGFR inhibitor,Osimertinib resistance,MAPK/ERK
