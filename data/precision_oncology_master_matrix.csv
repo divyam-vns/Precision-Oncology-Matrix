@@ -1,0 +1,26 @@
+Gene,Variant,Cancer_Type,Therapy,Drug_Class,Approval_Status,Resistance_Mechanism,Pathway,Evidence_Level,Category,Company,Clinical_Phase,Mechanism,Resistance_Strategy,Next_Line_Strategy,Emerging_Therapies
+EGFR,Exon 19 deletion,NSCLC,Osimertinib,3rd-generation EGFR TKI,FDA Approved,EGFR C797S,MAPK/ERK,FDA,FDA_Approved,,,,,,
+EGFR,L858R,NSCLC,Osimertinib,3rd-generation EGFR TKI,FDA Approved,MET amplification,MAPK/ERK,FDA,FDA_Approved,,,,,,
+EGFR,Exon 20 insertion,NSCLC,Amivantamab,EGFR/MET bispecific antibody,FDA Approved,Unknown/Emerging,MAPK/ERK,FDA,FDA_Approved,,,,,,
+PIK3CA,H1047R,HR+/HER2- Breast Cancer,Alpelisib,PI3K-alpha inhibitor,FDA Approved,PTEN loss,PI3K/AKT/mTOR,FDA,FDA_Approved,,,,,,
+PIK3CA,E545K,HR+/HER2- Breast Cancer,Alpelisib,PI3K-alpha inhibitor,FDA Approved,AKT activation,PI3K/AKT/mTOR,FDA,FDA_Approved,,,,,,
+BRAF,V600E,Melanoma,Dabrafenib + Trametinib,BRAF + MEK inhibition,FDA Approved,MEK reactivation,MAPK/ERK,FDA,FDA_Approved,,,,,,
+KRAS,G12C,NSCLC,Sotorasib,KRAS G12C inhibitor,FDA Approved,KRAS secondary mutations,MAPK/ERK,FDA,FDA_Approved,,,,,,
+ERBB2,HER2 amplification,Breast Cancer,Trastuzumab,HER2 monoclonal antibody,FDA Approved,PI3K pathway activation,HER2 signaling,FDA,FDA_Approved,,,,,,
+ESR1,Y537S,ER+ Breast Cancer,Elacestrant,Selective estrogen receptor degrader,FDA Approved,Endocrine resistance,Hormone signaling,FDA,FDA_Approved,,,,,,
+KRAS G12D,,"Pancreatic Cancer, Solid Tumors",MRTX1133,,,,MAPK/ERK,,Emerging,Mirati Therapeutics,Phase I/II,Selective KRAS G12D inhibitor,Next-generation KRAS targeting,,
+Pan-KRAS,,RAS-mutant Solid Tumors,RMC-6236,,,,MAPK/ERK,,Emerging,Revolution Medicines,Phase I/II,RAS(ON) multi-selective inhibitor,Broad KRAS blockade,,
+HER3,,EGFR-mutant NSCLC,Patritumab Deruxtecan,,,,HER family signaling,,Emerging,Daiichi Sankyo,Phase II/III,HER3-directed ADC,Post-EGFR TKI resistance,,
+MET Amplification,,NSCLC,Telisotuzumab Vedotin,,,,RTK signaling,,Emerging,AbbVie,Phase II,c-MET ADC,EGFR bypass resistance,,
+MTAP Loss,,Solid Tumors,AMG 193,,,,Epigenetic regulation,,Emerging,Amgen,Phase I/II,PRMT5 inhibitor,Synthetic lethality,,
+ARID1A Loss,,Ovarian and Solid Tumors,Ceralasertib,,,,DNA Damage Response,,Emerging,AstraZeneca,Phase II,ATR inhibitor,DNA damage synthetic lethality,,
+CCNE1 Amplification,,High-grade Serous Ovarian Cancer,Adavosertib,,,,Cell Cycle Regulation,,Emerging,AstraZeneca,Phase II,WEE1 inhibitor,Replication stress targeting,,
+EGFR C797S,,EGFR-mutant NSCLC,BLU-945,,,,MAPK/ERK,,Emerging,Blueprint Medicines,Phase I/II,4th-generation EGFR inhibitor,Osimertinib resistance,,
+EGFR,EGFR C797S,NSCLC,Osimertinib,,,,MAPK/ERK,,Resistance,,,Prevents covalent binding of 3rd-generation EGFR inhibitors,,4th-generation EGFR TKIs,"BLU-945, BBT-176"
+EGFR,MET amplification,NSCLC,Osimertinib,,,,RTK signaling,,Resistance,,,Bypass signaling through MET activation,,EGFR + MET combination therapy,Amivantamab + Lazertinib
+ESR1,Y537S,ER+ Breast Cancer,Aromatase inhibitors,,,,Hormone signaling,,Resistance,,,Ligand-independent ER activation,,Selective estrogen receptor degraders,Elacestrant
+ESR1,D538G,ER+ Breast Cancer,Aromatase inhibitors,,,,Hormone signaling,,Resistance,,,Constitutive estrogen receptor signaling,,Oral SERDs,Camizestrant
+BRAF,MEK reactivation,Melanoma,Dabrafenib + Trametinib,,,,MAPK/ERK,,Resistance,,,Restoration of downstream MAPK signaling,,ERK inhibition strategies,Ulixertinib
+ALK,ALK G1202R,NSCLC,Alectinib,,,,RTK signaling,,Resistance,,,Steric hindrance affecting ALK inhibitor binding,,3rd-generation ALK inhibitors,Lorlatinib
+KRAS G12C,Secondary KRAS mutations,NSCLC,Sotorasib,,,,MAPK/ERK,,Resistance,,,Altered KRAS inhibitor binding pocket,,Pan-KRAS inhibitors,RMC-6236
+EGFR,Small-cell transformation,NSCLC,EGFR TKIs,,,,Lineage plasticity,,Resistance,,,Histologic lineage plasticity,,Platinum-etoposide chemotherapy,DLL3-targeted therapies
