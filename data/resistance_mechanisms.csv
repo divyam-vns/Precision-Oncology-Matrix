@@ -1,0 +1,9 @@
+Primary_Target,Initial_Therapy,Resistance_Alteration,Tumor_Type,Mechanism,Next_Line_Strategy,Emerging_Therapies,Pathway
+EGFR,Osimertinib,EGFR C797S,NSCLC,Prevents covalent binding of 3rd-generation EGFR inhibitors,4th-generation EGFR TKIs,"BLU-945, BBT-176",MAPK/ERK
+EGFR,Osimertinib,MET amplification,NSCLC,Bypass signaling through MET activation,EGFR + MET combination therapy,Amivantamab + Lazertinib,RTK signaling
+ESR1,Aromatase inhibitors,Y537S,ER+ Breast Cancer,Ligand-independent ER activation,Selective estrogen receptor degraders,Elacestrant,Hormone signaling
+ESR1,Aromatase inhibitors,D538G,ER+ Breast Cancer,Constitutive estrogen receptor signaling,Oral SERDs,Camizestrant,Hormone signaling
+BRAF,Dabrafenib + Trametinib,MEK reactivation,Melanoma,Restoration of downstream MAPK signaling,ERK inhibition strategies,Ulixertinib,MAPK/ERK
+ALK,Alectinib,ALK G1202R,NSCLC,Steric hindrance affecting ALK inhibitor binding,3rd-generation ALK inhibitors,Lorlatinib,RTK signaling
+KRAS G12C,Sotorasib,Secondary KRAS mutations,NSCLC,Altered KRAS inhibitor binding pocket,Pan-KRAS inhibitors,RMC-6236,MAPK/ERK
+EGFR,EGFR TKIs,Small-cell transformation,NSCLC,Histologic lineage plasticity,Platinum-etoposide chemotherapy,DLL3-targeted therapies,Lineage plasticity

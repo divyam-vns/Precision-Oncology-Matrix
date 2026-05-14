@@ -1,0 +1,82 @@
+[
+    {
+        "Primary_Target":"EGFR",
+        "Initial_Therapy":"Osimertinib",
+        "Resistance_Alteration":"EGFR C797S",
+        "Tumor_Type":"NSCLC",
+        "Mechanism":"Prevents covalent binding of 3rd-generation EGFR inhibitors",
+        "Next_Line_Strategy":"4th-generation EGFR TKIs",
+        "Emerging_Therapies":"BLU-945, BBT-176",
+        "Pathway":"MAPK\/ERK"
+    },
+    {
+        "Primary_Target":"EGFR",
+        "Initial_Therapy":"Osimertinib",
+        "Resistance_Alteration":"MET amplification",
+        "Tumor_Type":"NSCLC",
+        "Mechanism":"Bypass signaling through MET activation",
+        "Next_Line_Strategy":"EGFR + MET combination therapy",
+        "Emerging_Therapies":"Amivantamab + Lazertinib",
+        "Pathway":"RTK signaling"
+    },
+    {
+        "Primary_Target":"ESR1",
+        "Initial_Therapy":"Aromatase inhibitors",
+        "Resistance_Alteration":"Y537S",
+        "Tumor_Type":"ER+ Breast Cancer",
+        "Mechanism":"Ligand-independent ER activation",
+        "Next_Line_Strategy":"Selective estrogen receptor degraders",
+        "Emerging_Therapies":"Elacestrant",
+        "Pathway":"Hormone signaling"
+    },
+    {
+        "Primary_Target":"ESR1",
+        "Initial_Therapy":"Aromatase inhibitors",
+        "Resistance_Alteration":"D538G",
+        "Tumor_Type":"ER+ Breast Cancer",
+        "Mechanism":"Constitutive estrogen receptor signaling",
+        "Next_Line_Strategy":"Oral SERDs",
+        "Emerging_Therapies":"Camizestrant",
+        "Pathway":"Hormone signaling"
+    },
+    {
+        "Primary_Target":"BRAF",
+        "Initial_Therapy":"Dabrafenib + Trametinib",
+        "Resistance_Alteration":"MEK reactivation",
+        "Tumor_Type":"Melanoma",
+        "Mechanism":"Restoration of downstream MAPK signaling",
+        "Next_Line_Strategy":"ERK inhibition strategies",
+        "Emerging_Therapies":"Ulixertinib",
+        "Pathway":"MAPK\/ERK"
+    },
+    {
+        "Primary_Target":"ALK",
+        "Initial_Therapy":"Alectinib",
+        "Resistance_Alteration":"ALK G1202R",
+        "Tumor_Type":"NSCLC",
+        "Mechanism":"Steric hindrance affecting ALK inhibitor binding",
+        "Next_Line_Strategy":"3rd-generation ALK inhibitors",
+        "Emerging_Therapies":"Lorlatinib",
+        "Pathway":"RTK signaling"
+    },
+    {
+        "Primary_Target":"KRAS G12C",
+        "Initial_Therapy":"Sotorasib",
+        "Resistance_Alteration":"Secondary KRAS mutations",
+        "Tumor_Type":"NSCLC",
+        "Mechanism":"Altered KRAS inhibitor binding pocket",
+        "Next_Line_Strategy":"Pan-KRAS inhibitors",
+        "Emerging_Therapies":"RMC-6236",
+        "Pathway":"MAPK\/ERK"
+    },
+    {
+        "Primary_Target":"EGFR",
+        "Initial_Therapy":"EGFR TKIs",
+        "Resistance_Alteration":"Small-cell transformation",
+        "Tumor_Type":"NSCLC",
+        "Mechanism":"Histologic lineage plasticity",
+        "Next_Line_Strategy":"Platinum-etoposide chemotherapy",
+        "Emerging_Therapies":"DLL3-targeted therapies",
+        "Pathway":"Lineage plasticity"
+    }
+]
