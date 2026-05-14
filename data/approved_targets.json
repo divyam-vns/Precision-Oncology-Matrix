@@ -1,0 +1,101 @@
+[
+    {
+        "Gene":"EGFR",
+        "Variant":"Exon 19 deletion",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Osimertinib",
+        "Drug_Class":"3rd-generation EGFR TKI",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"EGFR C797S",
+        "Pathway":"MAPK\/ERK",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"EGFR",
+        "Variant":"L858R",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Osimertinib",
+        "Drug_Class":"3rd-generation EGFR TKI",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"MET amplification",
+        "Pathway":"MAPK\/ERK",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"EGFR",
+        "Variant":"Exon 20 insertion",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Amivantamab",
+        "Drug_Class":"EGFR\/MET bispecific antibody",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"Unknown\/Emerging",
+        "Pathway":"MAPK\/ERK",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"PIK3CA",
+        "Variant":"H1047R",
+        "Cancer_Type":"HR+\/HER2- Breast Cancer",
+        "Drug":"Alpelisib",
+        "Drug_Class":"PI3K-alpha inhibitor",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"PTEN loss",
+        "Pathway":"PI3K\/AKT\/mTOR",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"PIK3CA",
+        "Variant":"E545K",
+        "Cancer_Type":"HR+\/HER2- Breast Cancer",
+        "Drug":"Alpelisib",
+        "Drug_Class":"PI3K-alpha inhibitor",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"AKT activation",
+        "Pathway":"PI3K\/AKT\/mTOR",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"BRAF",
+        "Variant":"V600E",
+        "Cancer_Type":"Melanoma",
+        "Drug":"Dabrafenib + Trametinib",
+        "Drug_Class":"BRAF + MEK inhibition",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"MEK reactivation",
+        "Pathway":"MAPK\/ERK",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"KRAS",
+        "Variant":"G12C",
+        "Cancer_Type":"NSCLC",
+        "Drug":"Sotorasib",
+        "Drug_Class":"KRAS G12C inhibitor",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"KRAS secondary mutations",
+        "Pathway":"MAPK\/ERK",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"ERBB2",
+        "Variant":"HER2 amplification",
+        "Cancer_Type":"Breast Cancer",
+        "Drug":"Trastuzumab",
+        "Drug_Class":"HER2 monoclonal antibody",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"PI3K pathway activation",
+        "Pathway":"HER2 signaling",
+        "Evidence_Level":"FDA"
+    },
+    {
+        "Gene":"ESR1",
+        "Variant":"Y537S",
+        "Cancer_Type":"ER+ Breast Cancer",
+        "Drug":"Elacestrant",
+        "Drug_Class":"Selective estrogen receptor degrader",
+        "Approval_Status":"FDA Approved",
+        "Resistance_Mechanism":"Endocrine resistance",
+        "Pathway":"Hormone signaling",
+        "Evidence_Level":"FDA"
+    }
+]

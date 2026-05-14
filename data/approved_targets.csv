@@ -1,0 +1,10 @@
+Gene,Variant,Cancer_Type,Drug,Drug_Class,Approval_Status,Resistance_Mechanism,Pathway,Evidence_Level
+EGFR,Exon 19 deletion,NSCLC,Osimertinib,3rd-generation EGFR TKI,FDA Approved,EGFR C797S,MAPK/ERK,FDA
+EGFR,L858R,NSCLC,Osimertinib,3rd-generation EGFR TKI,FDA Approved,MET amplification,MAPK/ERK,FDA
+EGFR,Exon 20 insertion,NSCLC,Amivantamab,EGFR/MET bispecific antibody,FDA Approved,Unknown/Emerging,MAPK/ERK,FDA
+PIK3CA,H1047R,HR+/HER2- Breast Cancer,Alpelisib,PI3K-alpha inhibitor,FDA Approved,PTEN loss,PI3K/AKT/mTOR,FDA
+PIK3CA,E545K,HR+/HER2- Breast Cancer,Alpelisib,PI3K-alpha inhibitor,FDA Approved,AKT activation,PI3K/AKT/mTOR,FDA
+BRAF,V600E,Melanoma,Dabrafenib + Trametinib,BRAF + MEK inhibition,FDA Approved,MEK reactivation,MAPK/ERK,FDA
+KRAS,G12C,NSCLC,Sotorasib,KRAS G12C inhibitor,FDA Approved,KRAS secondary mutations,MAPK/ERK,FDA
+ERBB2,HER2 amplification,Breast Cancer,Trastuzumab,HER2 monoclonal antibody,FDA Approved,PI3K pathway activation,HER2 signaling,FDA
+ESR1,Y537S,ER+ Breast Cancer,Elacestrant,Selective estrogen receptor degrader,FDA Approved,Endocrine resistance,Hormone signaling,FDA
