@@ -201,7 +201,7 @@ Each includes:
 
 #  Deployment
 
-The Streamlit application enables:
+The Streamlit application (https://precision-oncology-matrix.streamlit.app/) enables:
 
 - Mutation input analysis
 - Real-time clinical annotation
